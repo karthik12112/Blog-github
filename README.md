@@ -1,2 +1,2 @@
 # Blog-github
-github
+Beginner practial guide to github
